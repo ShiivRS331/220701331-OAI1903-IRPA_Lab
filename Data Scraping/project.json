@@ -1,6 +1,6 @@
 {
-  "name": "Lists",
-  "projectId": "f2d18faa-c482-421a-bd3c-a747e1d2e976",
+  "name": "Data Scraping",
+  "projectId": "e7cb7479-6551-4412-90da-6a956133809d",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -51,7 +51,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "81699213-5052-451d-8914-b4172993e9f1",
+      "uniqueId": "d8b94677-39f1-4811-8987-494880fdca70",
       "input": [],
       "output": []
     }

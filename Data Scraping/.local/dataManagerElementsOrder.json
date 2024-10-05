@@ -12,10 +12,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "all_case&Sequence_1",
-        "all&Sequence_1",
-        "uk&Sequence_1",
-        "spain&Sequence_1"
+        "ExtractDataTable&Sequence_3"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
