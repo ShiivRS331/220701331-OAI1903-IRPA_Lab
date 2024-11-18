@@ -1,0 +1,22 @@
+{
+  "assemblyStates": {
+    "C69E041B1DF_signatur.PjNRdadQ3O1LmAUj1mYQv11": {
+      "namespace": "UiPath.IntegrationService.Activities.SWEntities.C69E041B1DF_signatureSimilarity_Create.Bundle",
+      "providerName": "CustomEntities",
+      "key": {
+        "name": "UiPath.IntegrationService.Activities.SWEntities.C69E041B1DF_signatureSimilarity_Create",
+        "hash": "UGFSdTF5TnVVTWlaSndEYk9SZ3FPY0ZUaXBXb0ZFVnlRMVd6ZW5vbm9SdnJXSEpubE9YeHRNUnNmWDZCaHhxUllOTGZzSWhJRlM0cUFlekNnZWk4SXc9PQ",
+        "assemblyName": "C69E041B1DF_signatur.PjNRdadQ3O1LmAUj1mYQv11"
+      }
+    },
+    "C69E041B1DF_v1_sub_o.PGtHpBmiXG1quOzf2hS6bI": {
+      "namespace": "UiPath.IntegrationService.Activities.SWEntities.C69E041B1DF_v1_sub_objectminus_signdetection_Create.Bundle",
+      "providerName": "CustomEntities",
+      "key": {
+        "name": "UiPath.IntegrationService.Activities.SWEntities.C69E041B1DF_v1_sub_objectminus_signdetection_Create",
+        "hash": "L21GU3FqMU41VHlWNzF6U3JYbjhGcUlIZGlSZUxISWRYQ0FpWDd3Uk51dC9tT3dZamlPNklGQmpvbDdTUjRNc2l6NVUvTE04eDFvOHVDbXR0U2pDZXc9PQ",
+        "assemblyName": "C69E041B1DF_v1_sub_o.PGtHpBmiXG1quOzf2hS6bI"
+      }
+    }
+  }
+}
